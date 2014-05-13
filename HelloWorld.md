@@ -1,5 +1,5 @@
 ## This is a markdown file
-my first marker file "Hello World"
+my first markdown file "Hello World"
 
 * working in R
 * Installing Rstudio
